@@ -1,4 +1,4 @@
-### 🚀 NodeJS Express MongoDB CRUD API
+# 🚀 NodeJS Express MongoDB CRUD API
 
 This project is a simple, foundational RESTful API built with Node.js, Express.js, and Mongoose to perform basic CRUD (Create, Read, Update, Delete) operations on a Product resource. 
 This is my starting point for learning backend API development.
@@ -33,7 +33,10 @@ This is my starting point for learning backend API development.
 ---
 
 ## 🏁 Getting Started
-Prerequisites: You need to have Node.js and npm (Node Package Manager) installed on your system.
+### Prerequisites:
+- Node.js v18+  
+- MongoDB Atlas or local MongoDB  
+- npm v8+
 
 ### 1. Installation
 ```bash
